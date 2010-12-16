@@ -9,6 +9,7 @@ namespace Extron
 {
     class ExtronSwitcher
     {
+        //This is V2 Branch
         private SerialPort  serialPort = null;
 
         private int inputSize = 0;
